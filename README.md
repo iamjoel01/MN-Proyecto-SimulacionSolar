@@ -3,6 +3,7 @@ Un seguidor solar es un sistema de orientación para maximizar la exposición a 
 
 ## Integrantes
 * Elliot Cazar Moreira
+* Joel Quilumba
 * Nombre
 * Nombre
 * Nombre
